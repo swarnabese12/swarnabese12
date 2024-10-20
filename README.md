@@ -2,13 +2,13 @@
 
  <h2>💻🛠️Skills<h2>
 
-**Node.js**: Crafting robust server-side applications.
+Node.js: Crafting robust server-side applications.
 
-**Vue.js & React.js**: Creating interactive user interfaces that enhance user experience.
+Vue.js & React.js: Creating interactive user interfaces that enhance user experience.
 
-**Tailwind CSS**: Designing beautiful and responsive layouts effortlessly.
+Tailwind CSS: Designing beautiful and responsive layouts effortlessly.
 
-**MongoDB**: Managing data with a flexible and scalable database solution.
+MongoDB: Managing data with a flexible and scalable database solution.
 
 🌱 I'm constantly learning and exploring new technologies to expand my skill set.
 
