@@ -1,6 +1,13 @@
 👋 Hi there! I'm Swarna, a Software Engineer with a passion for building dynamic and efficient web applications. I specialize in using Node.js, Vue.js, React.js, Next.js, Tailwind CSS, and MongoDB to create seamless and engaging user experiences.
 
-<h2>🛠️💻My Tech Stack</h2>
+<h2>🚀 What I Build</h2>
+
+⭐ Front-End Development
+⭐ Back-End Development
+
+
+
+<h2>🛠️💻 My Tech Stack</h2>
 
 - __Node.js__: Developing high-performance RESTful APIs and scalable backend applications with Node.js to deliver robust and efficient solutions.
 
