@@ -6,6 +6,8 @@
 
 - __Vue.js & React.js__: Creating interactive user interfaces that enhance user experience.
 
+- __Next.js__: Building fast, scalable, and SEO-friendly React applications with server-side rendering and static site generation.
+
 - __Tailwind CSS__: Designing beautiful and responsive layouts effortlessly.
 
 - __MongoDB__: Managing data with a flexible and scalable database solution.
