@@ -1,13 +1,12 @@
 <h2>Hi, I'm Swarna Bese 👋</h2>
 
-I'm a Software Engineer with a passion for building dynamic and efficient web applications. I specialize in using Node.js, Vue.js, React.js, Next.js, Tailwind CSS, and MongoDB to create seamless and engaging user experiences.
+I'm a Software Engineer with a passion for building dynamic and efficient web applications. I specialize in using Node.js, Vue.js, React.js, Next.js, Tailwind CSS, MongoDB, and blockchain technologies like Solana to create seamless and engaging user experiences.
 
 <h2>🚀 What I Build</h2>
 
-⭐ Front-End Development
-⭐ Back-End Development
-
-
+⭐ Front-End Development  
+⭐ Back-End Development  
+⭐ Learning and Building on the Solana Blockchain  
 
 <h2>🛠️💻 My Tech Stack</h2>
 
@@ -21,6 +20,12 @@ I'm a Software Engineer with a passion for building dynamic and efficient web ap
 
 - __MongoDB__: Managing data with a flexible and scalable database solution.
 
-🌱 I'm constantly learning and exploring new technologies to expand my skill set.
+- __Solana__: Developing decentralized applications (dApps) and working with blockchain technology for secure and high-performance systems.
+
+- __Anchor__: Simplifying Solana smart contract development with Rust and Anchor framework to build robust, efficient, and secure on-chain programs.
+
+- __Rust__: Writing high-performance, memory-safe smart contracts for Solana blockchain development.
+
+🌱 I'm constantly learning and exploring new technologies in web2 and web3 to expand my skill set.
 
 🚀 Check out my projects and feel free to reach out for collaboration or just to connect!
