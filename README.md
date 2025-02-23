@@ -16,6 +16,8 @@ I'm a Software Engineer with a passion for building dynamic and efficient web ap
 
 - __Next.js__: Building fast, scalable, and SEO-friendly React applications with server-side rendering and static site generation.
 
+- __Nuxt.js__: Crafting powerful, SEO-optimized, and performant Vue.js applications with server-side rendering and static site generation.
+
 - __Tailwind CSS__: Building visually stunning, responsive UIs with utility-first CSS for rapid, customizable, and maintainable designs.
 
 - __MongoDB__: Managing data with a flexible and scalable database solution.
